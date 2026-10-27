@@ -5,7 +5,7 @@ A simple archive grid for selected posts by [@Cupseyy](https://x.com/Cupseyy).
 The posts are indexed locally from X syndication data, so the page does not wait on 13 live X iframe widgets before rendering. The original X links remain on every card.
 
 The supplied Cupsey profile image is used for the header logo, favicon, and post avatars. The CA is displayed at the top with a copy button:
-`3zFDAQJU5ChuDyPEbJ4sd7Fkhj8697MmYCUuRW3gpump`.
+`AkhLnhTdhuJKSdCt3ia7s8pmrr3JyKrrbDabMBcnpump`.
 
 ## Run locally
 
